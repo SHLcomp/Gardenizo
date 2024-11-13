@@ -1,0 +1,37 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+
+}
+body{
+  font-family: 'Phudu';
+  overflow-x: hidden;
+}
+/* variables */
+:root{
+  --header-color: white;
+  --link_hover_color: rgb(93, 230, 93);
+  --cost_color: violet;
+  --line_color: yellow;
+  --btn_color: yellow;
+  --footer-bg: #24262b;
+  --cta-color: yellow;
+  --accent-color: violet;
+}
+
+
+
+/* shared css */
+.center{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.a{
+  text-decoration: none;
+  color: black;
+}
+
+/*root*/

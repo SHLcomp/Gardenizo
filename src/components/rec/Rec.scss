@@ -1,0 +1,20 @@
+.recitems{
+  position:relative ;
+  padding-top: 20px;
+  padding-bottom: 2cm;
+}
+.recitems .text2 {
+  margin-top: 3cm;
+  h1{
+  font-family: 'Dancing Script';
+  font-size: 3rem;
+}
+}
+.items_container .items{
+  width: 100%;
+  padding-top: 2cm;
+  display: flex;
+  flex-direction: row;
+  gap: 2cm;
+  flex-wrap: wrap;
+}
